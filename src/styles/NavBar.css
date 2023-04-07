@@ -1,0 +1,32 @@
+#navbarBrand {
+    color: crimson !important;
+}
+
+#watchLink {
+    color: antiquewhite !important;
+}
+
+#navbarGenre {
+    color: antiquewhite !important;
+}
+
+#helloMessage {
+    color: rgb(248, 97, 97);
+}
+
+#btnSearch {
+    color: red;
+    border-color: red;
+}
+
+#formSearch {
+    border-color: red;
+}
+
+#navbarProfil {
+    color: antiquewhite;
+}
+
+#navBarlogOut {
+    color: antiquewhite;
+}
