@@ -38,8 +38,8 @@ export default function NavBarHome() {
             className='me-auto my-2 my-lg-0'
             style={{ maxHeight: '100px'}}
             navbarScroll>
-              <Nav.Link id='navBarlogIn' href='#'>Log In</Nav.Link>
-              <Nav.Link id='navBarsignUp' href='#'>Sign Up</Nav.Link>
+              <Nav.Link id='navBarlogIn' href='login'>Log In</Nav.Link>
+              <Nav.Link id='navBarsignUp' href='signup'>Sign Up</Nav.Link>
             </Nav>
         </Navbar.Collapse>
       </Container>
