@@ -3,7 +3,25 @@ body {
     background: radial-gradient(circle, rgba(23, 23, 23, 1));
 }
 
+#sucon {
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    max-width: 500px;
+    margin: auto;
+    width: 100%;
+}
 
+#header {
+    background-color: rgb(100, 28, 30);
+    color: antiquewhite;
+}
+
+.row {
+    padding-top: 5%;
+}
 
 
 
